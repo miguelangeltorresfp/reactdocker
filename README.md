@@ -1,3 +1,13 @@
+
+# Tutorial by Manny Codes
+  [LINK](https://medium.com/@mannycodes/deploying-reactjs-with-docker-ac16728c0896)
+
+## Deploying ReactJS With Docker
+
+### How to package ReactJS with Docker and deploy it to Digital Ocean 
+
+--------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
